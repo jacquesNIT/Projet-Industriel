@@ -1,0 +1,5 @@
+# Rasters GeoTIFF (trop lourds pour Git)
+*.tif
+*.tiff
+*.TIF
+*.TIFF
